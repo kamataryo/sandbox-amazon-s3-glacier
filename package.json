@@ -1,0 +1,10 @@
+{
+  "name": "amazon-s3-glacier",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "kamataryo <mugil.cephalus+ciconia.local@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.384.0"
+  }
+}
